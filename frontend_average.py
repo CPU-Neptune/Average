@@ -2,7 +2,6 @@ import average as avg
 from tkinter import *
 from tkinter import messagebox
 import tkinter as tk
-# from average import avges
 
 window=Tk()
 
